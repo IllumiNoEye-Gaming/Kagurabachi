@@ -196,6 +196,14 @@
                 "Viz Media": "/proxy/api/imgur/chapter/j6PzHHr/"
             },
             "last_updated": "1710654610"
+        },
+        "25": {
+            "title": "Deal",
+            "volume": "-",
+            "groups": {
+                "Viz Media": "/proxy/api/imgur/chapter/Gw64USz/"
+            },
+            "last_updated": "1710703880"
         }
     }
 }
