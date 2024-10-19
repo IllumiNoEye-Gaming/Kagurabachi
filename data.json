@@ -71,7 +71,7 @@
         },
         "9": {
             "title": "Enten vs Cloud Gouger",
-            "volume": "-",
+            "volume": "2",
             "groups": {
                 "Viz Media": "/proxy/api/imgur/chapter/7VkyVzU/"
             },
@@ -79,7 +79,7 @@
         },
         "10": {
             "title": "Swift",
-            "volume": "-",
+            "volume": "2",
             "groups": {
                 "Viz Media": "/proxy/api/imgur/chapter/qXRxi71/"
             },
@@ -87,7 +87,7 @@
         },
         "11": {
             "title": "Awaken",
-            "volume": "-",
+            "volume": "2",
             "groups": {
                 "Viz Media": "/proxy/api/imgur/chapter/Yh6aiCx/"
             },
@@ -95,7 +95,7 @@
         },
         "12": {
             "title": "Preparation",
-            "volume": "-",
+            "volume": "2",
             "groups": {
                 "Viz Media": "/proxy/api/imgur/chapter/I4o6aJX/"
             },
@@ -103,7 +103,7 @@
         },
         "13": {
             "title": "Elite",
-            "volume": "-",
+            "volume": "2",
             "groups": {
                 "Viz Media": "/proxy/api/imgur/chapter/UiamBvf/"
             },
@@ -111,7 +111,7 @@
         },
         "14": {
             "title": "Chapter 14",
-            "volume": "-",
+            "volume": "2",
             "groups": {
                 "Viz Media": "/proxy/api/imgur/chapter/fZ17ZVs/"
             },
@@ -119,7 +119,7 @@
         },
         "15": {
             "title": "Food",
-            "volume": "-",
+            "volume": "2",
             "groups": {
                 "Viz Media": "/proxy/api/imgur/chapter/SJvtzA8/"
             },
@@ -127,7 +127,7 @@
         },
         "16": {
             "title": "Silence",
-            "volume": "-",
+            "volume": "2",
             "groups": {
                 "Viz Media": "/proxy/api/imgur/chapter/yVlhXca/"
             },
@@ -135,7 +135,7 @@
         },
         "17": {
             "title": "Tea",
-            "volume": "-",
+            "volume": "2",
             "groups": {
                 "Viz Media": "/proxy/api/imgur/chapter/lS86tmB/"
             },
@@ -143,7 +143,7 @@
         },
         "18": {
             "title": "Roar",
-            "volume": "-",
+            "volume": "2",
             "groups": {
                 "Viz Media": "/proxy/api/imgur/chapter/fcvkq95/"
             },
@@ -151,7 +151,7 @@
         },
         "19": {
             "title": "Knight of Darkness",
-            "volume": "-",
+            "volume": "3",
             "groups": {
                 "Viz Media": "/proxy/api/imgur/chapter/XuBNqYO/"
             },
@@ -159,7 +159,7 @@
         },
         "20": {
             "title": "The Kamunabi's Weapon",
-            "volume": "-",
+            "volume": "3",
             "groups": {
                 "Viz Media": "/proxy/api/imgur/chapter/5DMRiJd/"
             },
@@ -167,7 +167,7 @@
         },
         "21": {
             "title": "Lukewarm",
-            "volume": "-",
+            "volume": "3",
             "groups": {
                 "Viz Media": "/proxy/api/imgur/chapter/y4sAyp3/"
             },
@@ -175,7 +175,7 @@
         },
         "22": {
             "title": "Deadlock",
-            "volume": "-",
+            "volume": "3",
             "groups": {
                 "Viz Media": "/proxy/api/imgur/chapter/Ir9OVYt/"
             },
@@ -183,7 +183,7 @@
         },
         "23": {
             "title": "Storehouse",
-            "volume": "-",
+            "volume": "3",
             "groups": {
                 "Viz Media": "/proxy/api/imgur/chapter/9Jd5Q8t/"
             },
@@ -191,7 +191,7 @@
         },
         "24": {
             "title": "Hunters",
-            "volume": "-",
+            "volume": "3",
             "groups": {
                 "Viz Media": "/proxy/api/imgur/chapter/j6PzHHr/"
             },
@@ -199,7 +199,7 @@
         },
         "25": {
             "title": "Deal",
-            "volume": "-",
+            "volume": "3",
             "groups": {
                 "Viz Media": "/proxy/api/imgur/chapter/Gw64USz/"
             },
@@ -207,11 +207,43 @@
         },
         "26": {
             "title": "Confidence",
-            "volume": "-",
+            "volume": "3",
             "groups": {
                 "Viz Media": "/proxy/api/imgur/chapter/kvMYCBM/"
             },
             "last_updated": "1711714193"
+        },
+        "27": {
+            "title": "Mr. Inazuma",
+            "volume": "3",
+            "groups": {
+                "Viz Media": "/proxy/api/imgur/chapter/AJr4l50/"
+            },
+            "last_updated": "1729320494"
+        },
+        "28": {
+            "title": "Breach",
+            "volume": "4",
+            "groups": {
+                "Viz Media": "/proxy/api/imgur/chapter/faKYDqk/"
+            },
+            "last_updated": "1729320494"
+        },
+        "29": {
+            "title": "Selection",
+            "volume": "4",
+            "groups": {
+                "Viz Media": "/proxy/api/imgur/chapter/YtjsJmd/"
+            },
+            "last_updated": "1729320494"
+        },
+        "30": {
+            "title": "Intruders",
+            "volume": "4",
+            "groups": {
+                "Viz Media": "/proxy/api/imgur/chapter/OjnIOc0/"
+            },
+            "last_updated": "1729320494"
         }
     }
 }
